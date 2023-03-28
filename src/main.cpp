@@ -7,6 +7,5 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
+ // asdsad
 }
-
-git config --global user.email "Tu nombre"
